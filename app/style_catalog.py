@@ -1,0 +1,41 @@
+"""Versioned creative recipes; shared by the API, prompt compiler and tests."""
+# key, label, category, scene direction, default outfit, image influence, backbone
+RECIPES = [
+ ('editorial','Editorial de moda','Fotografía','luxury fashion magazine portrait, soft studio light, warm neutral background','elegant designer jacket',.62,'photo'),
+ ('professional','Perfil profesional','Fotografía','professional portrait, soft window light, clean office backdrop','tailored blazer',.65,'photo'),
+ ('beauty','Beauty de estudio','Fotografía','beauty campaign, realistic skin pores, soft beauty dish lighting, clean pastel background','minimal elegant outfit',.62,'photo'),
+ ('vintage','Cámara analógica','Fotografía','35mm film portrait, warm vintage colors, subtle film grain, afternoon cafe','vintage casual clothing',.6,'photo'),
+ ('bw','Blanco y negro','Fotografía','black and white monochrome photography, dramatic Rembrandt light, fine art portrait','black turtleneck',.65,'photo'),
+ ('golden','Golden hour','Fotografía','sunset beach portrait, warm golden sunlight, ocean bokeh, natural skin','casual linen shirt',.6,'photo'),
+ ('cinema','Protagonista de cine','Cine y fantasía','cinematic movie portrait, atmospheric city at dusk, dramatic film lighting','dark leather jacket',.58,'photo'),
+ ('neon','Cyberpunk neón','Cine y fantasía','cyberpunk Tokyo at night, vivid cyan and magenta neon rim light, rainy city','futuristic cyberpunk jacket',.53,'photo'),
+ ('fantasy','El reino élfico','Cine y fantasía','fantasy movie portrait in an enchanted forest, magical emerald light','ornate emerald elven cloak',.52,'art'),
+ ('astronaut','Explorador espacial','Cine y fantasía','science fiction astronaut portrait on a colorful alien planet, glowing stars','detailed white astronaut spacesuit',.52,'art'),
+ ('pirate','Capitán pirata','Cine y fantasía','epic pirate captain portrait, sailing ship and ocean background, cinematic light','pirate hat and embroidered coat',.5,'art'),
+ ('superhero','Tu superhéroe','Cine y fantasía','heroic superhero movie character portrait, city skyline, dramatic rim lighting','colorful superhero armor and cape',.48,'art'),
+ ('wizard','Escuela de magia','Cine y fantasía','fantasy wizard portrait in an ancient library, floating golden sparks','wizard robe and pointed hat',.5,'art'),
+ ('western','Lejano oeste','Cine y fantasía','western movie portrait, desert sunset, cinematic warm light','cowboy hat and brown leather vest',.53,'photo'),
+ ('royal','Retrato real','Cine y fantasía','royal palace portrait, ornate golden throne, cinematic elegant light','royal embroidered coat and jeweled crown',.52,'art'),
+ ('noir','Detective noir','Cine y fantasía','black and white film noir detective portrait, foggy rainy city, dramatic shadows','1940s trench coat and fedora',.55,'photo'),
+ ('illustration','Ilustración editorial','Arte y animación','hand painted gouache illustration portrait, visible brush strokes, textured paper, warm palette','stylish illustrated clothing',.42,'art'),
+ ('anime','Protagonista de anime','Arte y animación','anime character portrait, hand drawn cel shading, expressive eyes, detailed colorful anime background','anime adventure outfit',.36,'art'),
+ ('comic','Portada de cómic','Arte y animación','comic book cover portrait, bold black ink outlines, vibrant colors, halftone texture','comic book hero jacket',.4,'art'),
+ ('watercolor','Acuarela','Arte y animación','watercolor painting portrait, soft watercolor washes, paper texture, delicate brushwork','soft painted clothing',.4,'art'),
+ ('oil','Pintura al óleo','Arte y animación','oil painting portrait, visible impasto brush strokes, museum quality, rich colors','elegant artistic clothing',.43,'art'),
+ ('three_d','Personaje 3D','Arte y animación','stylized 3d animated character portrait, polished animated film rendering, soft studio lighting','colorful character costume',.38,'art'),
+ ('clay','Muñeco de plastilina','Arte y animación','claymation portrait, handmade colorful modeling clay, stop motion character, clay texture','colorful handmade clay outfit',.34,'art'),
+ ('sketch','Boceto a lápiz','Arte y animación','graphite pencil drawing portrait, detailed pencil hatching, white sketchbook paper','pencil drawn jacket',.45,'art'),
+ ('rockstar','Estrella del rock','Divertidos','rock star concert portrait, colorful stage lights, electric concert atmosphere','glam rock leather jacket',.5,'photo'),
+ ('disco','Fiebre disco','Divertidos','1970s disco party portrait, mirrored disco ball, colorful party lights','sparkling disco suit',.48,'photo'),
+ ('candy','Universo de dulces','Divertidos','surreal candy kingdom portrait, pastel candy landscape, whimsical joyful mood','playful candy colored costume',.4,'art'),
+ ('underwater','Bajo el océano','Divertidos','underwater fantasy portrait, colorful coral reef, bubbles, soft blue caustic light','fantasy ocean explorer outfit',.42,'art'),
+ ('steampunk','Inventor steampunk','Divertidos','steampunk inventor portrait, brass machines, warm amber light','Victorian leather coat and brass goggles',.48,'art'),
+ ('chef','Chef con estrella','Divertidos','famous chef portrait in a beautiful restaurant kitchen, warm professional light','white chef coat and chef hat',.55,'photo'),
+ ('snow','Aventura polar','Divertidos','winter explorer portrait, snowy mountains, northern lights','colorful expedition parka',.53,'photo'),
+ ('popart','Pop art','Arte y animación','bold pop art illustration portrait, vibrant primary colors, screen printed halftone dots','graphic colorful outfit',.38,'art'),
+]
+PRESETS = {key: {'label':label,'category':category,'prompt':scene,'outfit':outfit,
+                 'identity':identity,'backbone':backbone,'preview':f'/examples/{key}.png',
+                 'description':label,'icon':'✦','color':'#d6ff00'}
+           for key,label,category,scene,outfit,identity,backbone in RECIPES}
+RECIPE_VERSION = '4.3.1'

@@ -1,0 +1,194 @@
+[
+  {
+    "id": "editorial",
+    "name": "Editorial de moda",
+    "category": "Fotografía",
+    "image": "assets/editorial.webp"
+  },
+  {
+    "id": "professional",
+    "name": "Perfil profesional",
+    "category": "Fotografía",
+    "image": "assets/professional.webp"
+  },
+  {
+    "id": "beauty",
+    "name": "Beauty de estudio",
+    "category": "Fotografía",
+    "image": "assets/beauty.webp"
+  },
+  {
+    "id": "vintage",
+    "name": "Cámara analógica",
+    "category": "Fotografía",
+    "image": "assets/vintage.webp"
+  },
+  {
+    "id": "bw",
+    "name": "Blanco y negro",
+    "category": "Fotografía",
+    "image": "assets/bw.webp"
+  },
+  {
+    "id": "golden",
+    "name": "Golden hour",
+    "category": "Fotografía",
+    "image": "assets/golden.webp"
+  },
+  {
+    "id": "cinema",
+    "name": "Protagonista de cine",
+    "category": "Cine y fantasía",
+    "image": "assets/cinema.webp"
+  },
+  {
+    "id": "neon",
+    "name": "Cyberpunk neón",
+    "category": "Cine y fantasía",
+    "image": "assets/neon.webp"
+  },
+  {
+    "id": "fantasy",
+    "name": "El reino élfico",
+    "category": "Cine y fantasía",
+    "image": "assets/fantasy.webp"
+  },
+  {
+    "id": "astronaut",
+    "name": "Explorador espacial",
+    "category": "Cine y fantasía",
+    "image": "assets/astronaut.webp"
+  },
+  {
+    "id": "pirate",
+    "name": "Capitán pirata",
+    "category": "Cine y fantasía",
+    "image": "assets/pirate.webp"
+  },
+  {
+    "id": "superhero",
+    "name": "Tu superhéroe",
+    "category": "Cine y fantasía",
+    "image": "assets/superhero.webp"
+  },
+  {
+    "id": "wizard",
+    "name": "Escuela de magia",
+    "category": "Cine y fantasía",
+    "image": "assets/wizard.webp"
+  },
+  {
+    "id": "western",
+    "name": "Lejano oeste",
+    "category": "Cine y fantasía",
+    "image": "assets/western.webp"
+  },
+  {
+    "id": "royal",
+    "name": "Retrato real",
+    "category": "Cine y fantasía",
+    "image": "assets/royal.webp"
+  },
+  {
+    "id": "noir",
+    "name": "Detective noir",
+    "category": "Cine y fantasía",
+    "image": "assets/noir.webp"
+  },
+  {
+    "id": "illustration",
+    "name": "Ilustración editorial",
+    "category": "Arte y animación",
+    "image": "assets/illustration.webp"
+  },
+  {
+    "id": "anime",
+    "name": "Protagonista de anime",
+    "category": "Arte y animación",
+    "image": "assets/anime.webp"
+  },
+  {
+    "id": "comic",
+    "name": "Portada de cómic",
+    "category": "Arte y animación",
+    "image": "assets/comic.webp"
+  },
+  {
+    "id": "watercolor",
+    "name": "Acuarela",
+    "category": "Arte y animación",
+    "image": "assets/watercolor.webp"
+  },
+  {
+    "id": "oil",
+    "name": "Pintura al óleo",
+    "category": "Arte y animación",
+    "image": "assets/oil.webp"
+  },
+  {
+    "id": "three_d",
+    "name": "Personaje 3D",
+    "category": "Arte y animación",
+    "image": "assets/three_d.webp"
+  },
+  {
+    "id": "clay",
+    "name": "Muñeco de plastilina",
+    "category": "Arte y animación",
+    "image": "assets/clay.webp"
+  },
+  {
+    "id": "sketch",
+    "name": "Boceto a lápiz",
+    "category": "Arte y animación",
+    "image": "assets/sketch.webp"
+  },
+  {
+    "id": "rockstar",
+    "name": "Estrella del rock",
+    "category": "Divertidos",
+    "image": "assets/rockstar.webp"
+  },
+  {
+    "id": "disco",
+    "name": "Fiebre disco",
+    "category": "Divertidos",
+    "image": "assets/disco.webp"
+  },
+  {
+    "id": "candy",
+    "name": "Universo de dulces",
+    "category": "Divertidos",
+    "image": "assets/candy.webp"
+  },
+  {
+    "id": "underwater",
+    "name": "Bajo el océano",
+    "category": "Divertidos",
+    "image": "assets/underwater.webp"
+  },
+  {
+    "id": "steampunk",
+    "name": "Inventor steampunk",
+    "category": "Divertidos",
+    "image": "assets/steampunk.webp"
+  },
+  {
+    "id": "chef",
+    "name": "Chef con estrella",
+    "category": "Divertidos",
+    "image": "assets/chef.webp"
+  },
+  {
+    "id": "snow",
+    "name": "Aventura polar",
+    "category": "Divertidos",
+    "image": "assets/snow.webp"
+  },
+  {
+    "id": "popart",
+    "name": "Pop art",
+    "category": "Arte y animación",
+    "image": "assets/popart.webp"
+  }
+]

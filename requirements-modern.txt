@@ -1,0 +1,7 @@
+# Isolated worker environment; the existing SD 1.5/SDXL environment stays pinned.
+diffusers==0.38.0
+transformers==4.57.1
+accelerate==1.11.0
+safetensors>=0.4.3
+sentencepiece
+protobuf

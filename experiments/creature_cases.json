@@ -1,0 +1,38 @@
+[
+  {
+    "model_id": "flux_klein",
+    "preset": "editorial",
+    "character_type": "natural",
+    "prompt": "quiero generar una serpiente humana",
+    "seed": 74123,
+    "steps": 4,
+    "identity_strength": 0.65,
+    "framing": "square",
+    "appearance": {},
+    "id": "snake-benchmark-edit"
+  },
+  {
+    "model_id": "flux_klein",
+    "preset": "editorial",
+    "character_type": "natural",
+    "prompt": "Conviérteme en un ajolote humano con branquias externas rosadas a ambos lados de la cabeza y piel lisa rosada. Conserva mi rostro humano reconocible.",
+    "seed": 74123,
+    "steps": 4,
+    "identity_strength": 0.65,
+    "framing": "square",
+    "appearance": {},
+    "id": "axolotl-benchmark-gills"
+  },
+  {
+    "model_id": "flux_klein",
+    "preset": "editorial",
+    "character_type": "fox",
+    "prompt": "Conviérteme en un tigre humano con orejas redondas, pelaje con rayas naranjas y negras en las mejillas y bigotes visibles.",
+    "seed": 74123,
+    "steps": 4,
+    "identity_strength": 0.65,
+    "framing": "square",
+    "appearance": {},
+    "id": "tiger-benchmark-localized"
+  }
+]

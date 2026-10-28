@@ -1,0 +1,201 @@
+{
+  "catalog_version": "1.0",
+  "sources": [
+    {
+      "id": "pokemon:pikachu",
+      "path": "web/assets/discovery/pokemon/pikachu.png",
+      "source": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png",
+      "sha256": "0f240ad406d30f66b27048f967469957179d1fe33fec6183ba690bec8b9fd956",
+      "usage": "Character reference artwork for a local fan experience; character rights belong to their respective owners. Not locally generated artwork."
+    },
+    {
+      "id": "pokemon:eevee",
+      "path": "web/assets/discovery/pokemon/eevee.png",
+      "source": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/133.png",
+      "sha256": "52853ba488c9e20196d4c6df3abe091c6eb02736a3edb022151f1a0d2306e4aa",
+      "usage": "Character reference artwork for a local fan experience; character rights belong to their respective owners. Not locally generated artwork."
+    },
+    {
+      "id": "pokemon:vulpix",
+      "path": "web/assets/discovery/pokemon/vulpix.png",
+      "source": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/37.png",
+      "sha256": "9be252e42fe8297f8a87a5e781e3172a3844a2f2cb052c02163081c4dc36b4a0",
+      "usage": "Character reference artwork for a local fan experience; character rights belong to their respective owners. Not locally generated artwork."
+    },
+    {
+      "id": "pokemon:lucario",
+      "path": "web/assets/discovery/pokemon/lucario.png",
+      "source": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/448.png",
+      "sha256": "e9e9fc86ea833835b4ad418151ca34ba7952e9603003986ea3e7f5e15d2524ed",
+      "usage": "Character reference artwork for a local fan experience; character rights belong to their respective owners. Not locally generated artwork."
+    },
+    {
+      "id": "pokemon:charizard",
+      "path": "web/assets/discovery/pokemon/charizard.png",
+      "source": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/6.png",
+      "sha256": "ebf4b1284a12a4493e495673e9e6c55584add9cee5583b33c73672c66db196e7",
+      "usage": "Character reference artwork for a local fan experience; character rights belong to their respective owners. Not locally generated artwork."
+    },
+    {
+      "id": "pokemon:squirtle",
+      "path": "web/assets/discovery/pokemon/squirtle.png",
+      "source": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/7.png",
+      "sha256": "b80b315c13fb39e0077b999d8eb8eaac1610edd8e5090437ef64ad6ce25aac94",
+      "usage": "Character reference artwork for a local fan experience; character rights belong to their respective owners. Not locally generated artwork."
+    },
+    {
+      "id": "pokemon:bulbasaur",
+      "path": "web/assets/discovery/pokemon/bulbasaur.png",
+      "source": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png",
+      "sha256": "9792ce5cf4e5cfaa8fa79d6bd3b360b2ad65fc6d812c52dc38e17cf50fac4d65",
+      "usage": "Character reference artwork for a local fan experience; character rights belong to their respective owners. Not locally generated artwork."
+    },
+    {
+      "id": "pokemon:gengar",
+      "path": "web/assets/discovery/pokemon/gengar.png",
+      "source": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/94.png",
+      "sha256": "afb377672bdd2a06295c68702f5345cac89d8a35df6a0227afebc489f363951b",
+      "usage": "Character reference artwork for a local fan experience; character rights belong to their respective owners. Not locally generated artwork."
+    },
+    {
+      "id": "pokemon:jigglypuff",
+      "path": "web/assets/discovery/pokemon/jigglypuff.png",
+      "source": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/39.png",
+      "sha256": "1c6cf05232c8484015147eefba5a0002df301a1cb2a10cdd2dcd0e72412db001",
+      "usage": "Character reference artwork for a local fan experience; character rights belong to their respective owners. Not locally generated artwork."
+    },
+    {
+      "id": "pokemon:mewtwo",
+      "path": "web/assets/discovery/pokemon/mewtwo.png",
+      "source": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/150.png",
+      "sha256": "2673f7bc9b9d215f1bb540bb274f4ef9795061e3598d75b00cc8e41b35cc6576",
+      "usage": "Character reference artwork for a local fan experience; character rights belong to their respective owners. Not locally generated artwork."
+    },
+    {
+      "id": "pokemon:gardevoir",
+      "path": "web/assets/discovery/pokemon/gardevoir.png",
+      "source": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/282.png",
+      "sha256": "3f8f6cc8d661cc5c6778cd15be3ff9abc07298f404974694d662064d8e6dbf34",
+      "usage": "Character reference artwork for a local fan experience; character rights belong to their respective owners. Not locally generated artwork."
+    },
+    {
+      "id": "pokemon:dragonite",
+      "path": "web/assets/discovery/pokemon/dragonite.png",
+      "source": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/149.png",
+      "sha256": "18a8b7dce63e57962a6906d4ee606630a6353913f1fb6260cafefd70a2f0f4ed",
+      "usage": "Character reference artwork for a local fan experience; character rights belong to their respective owners. Not locally generated artwork."
+    },
+    {
+      "id": "pokemon:arcanine",
+      "path": "web/assets/discovery/pokemon/arcanine.png",
+      "source": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/59.png",
+      "sha256": "4796598343571cddcbea4017469703ab38f26ec109028b5e82056b9d1ce3e24d",
+      "usage": "Character reference artwork for a local fan experience; character rights belong to their respective owners. Not locally generated artwork."
+    },
+    {
+      "id": "pokemon:meowth",
+      "path": "web/assets/discovery/pokemon/meowth.png",
+      "source": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/52.png",
+      "sha256": "ba1ceb08f74e4226431e50079f3f36801b0e37fbfcde77434494be3a01332e22",
+      "usage": "Character reference artwork for a local fan experience; character rights belong to their respective owners. Not locally generated artwork."
+    },
+    {
+      "id": "pokemon:psyduck",
+      "path": "web/assets/discovery/pokemon/psyduck.png",
+      "source": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/54.png",
+      "sha256": "2e98f6b5909239f36809cc8da37cbc5fa149b2afffe3fb309d6a837b144cc22e",
+      "usage": "Character reference artwork for a local fan experience; character rights belong to their respective owners. Not locally generated artwork."
+    },
+    {
+      "id": "pokemon:lapras",
+      "path": "web/assets/discovery/pokemon/lapras.png",
+      "source": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/131.png",
+      "sha256": "e59248f1d2c442d9f4f6260280389d05a4d762697e65ff488d1c73759d79f9ba",
+      "usage": "Character reference artwork for a local fan experience; character rights belong to their respective owners. Not locally generated artwork."
+    },
+    {
+      "id": "digimon:agumon",
+      "path": "web/assets/discovery/digimon/agumon.png",
+      "source": "https://digimon.shadowsmith.com/img/agumon.jpg",
+      "sha256": "ebf8213bb1f21ac5dd79268209af31839b5e24072490e20a98f9a0fcbd47d4d4",
+      "usage": "Character reference artwork for a local fan experience; character rights belong to their respective owners. Not locally generated artwork."
+    },
+    {
+      "id": "digimon:gabumon",
+      "path": "web/assets/discovery/digimon/gabumon.png",
+      "source": "https://digimon.shadowsmith.com/img/gabumon.jpg",
+      "sha256": "ad278def321a6992ff589e20127c3ce0d7e6425391f37caa0c660822615dfd5f",
+      "usage": "Character reference artwork for a local fan experience; character rights belong to their respective owners. Not locally generated artwork."
+    },
+    {
+      "id": "digimon:patamon",
+      "path": "web/assets/discovery/digimon/patamon.png",
+      "source": "https://digimon.shadowsmith.com/img/patamon.jpg",
+      "sha256": "b54872444c07588250727ddff921fdf020b769f2a1edf02129a8a98034552540",
+      "usage": "Character reference artwork for a local fan experience; character rights belong to their respective owners. Not locally generated artwork."
+    },
+    {
+      "id": "digimon:gatomon",
+      "path": "web/assets/discovery/digimon/gatomon.png",
+      "source": "https://digimon.shadowsmith.com/img/gatomon.jpg",
+      "sha256": "948aa8622a90b45323af9069e713c964fffeb8aa581ecf38656aaa1833f54c63",
+      "usage": "Character reference artwork for a local fan experience; character rights belong to their respective owners. Not locally generated artwork."
+    },
+    {
+      "id": "digimon:tentomon",
+      "path": "web/assets/discovery/digimon/tentomon.png",
+      "source": "https://digimon.shadowsmith.com/img/tentomon.jpg",
+      "sha256": "ea9d3065f29972a519a030ff20e67eb97a276065ff4a1b7ea4c5b5094e784d09",
+      "usage": "Character reference artwork for a local fan experience; character rights belong to their respective owners. Not locally generated artwork."
+    },
+    {
+      "id": "digimon:palmon",
+      "path": "web/assets/discovery/digimon/palmon.png",
+      "source": "https://digimon.shadowsmith.com/img/palmon.jpg",
+      "sha256": "9e2b2ce9921ff1ce0c95a4998b3a6b53950702a566dd9eb39e828efdab60b9a3",
+      "usage": "Character reference artwork for a local fan experience; character rights belong to their respective owners. Not locally generated artwork."
+    },
+    {
+      "id": "digimon:gomamon",
+      "path": "web/assets/discovery/digimon/gomamon.png",
+      "source": "https://digimon.shadowsmith.com/img/gomamon.jpg",
+      "sha256": "cbe3a4152375850a6a1ca1fa511972ae606190ea0eefa019e9610933a0234d4b",
+      "usage": "Character reference artwork for a local fan experience; character rights belong to their respective owners. Not locally generated artwork."
+    },
+    {
+      "id": "digimon:biyomon",
+      "path": "web/assets/discovery/digimon/biyomon.png",
+      "source": "https://digimon.shadowsmith.com/img/biyomon.jpg",
+      "sha256": "48d697a53688294a1f8d2a2236013203f59dc336baebf2260a609bac7a5b5c1f",
+      "usage": "Character reference artwork for a local fan experience; character rights belong to their respective owners. Not locally generated artwork."
+    },
+    {
+      "id": "digimon:salamon",
+      "path": "web/assets/discovery/digimon/salamon.png",
+      "source": "https://digimon.shadowsmith.com/img/salamon.jpg",
+      "sha256": "9825fd4af53a0bddd7d4f73ef6b83baf4cc4e9d08dcba2b7f9bf437d36d7aab3",
+      "usage": "Character reference artwork for a local fan experience; character rights belong to their respective owners. Not locally generated artwork."
+    },
+    {
+      "id": "digimon:elecmon",
+      "path": "web/assets/discovery/digimon/elecmon.png",
+      "source": "https://digimon.shadowsmith.com/img/elecmon.jpg",
+      "sha256": "95974180765a47da5953800d8aad6fff9370f8d4710561851bc78c8591eb1088",
+      "usage": "Character reference artwork for a local fan experience; character rights belong to their respective owners. Not locally generated artwork."
+    },
+    {
+      "id": "digimon:hawkmon",
+      "path": "web/assets/discovery/digimon/hawkmon.png",
+      "source": "https://digimon.shadowsmith.com/img/hawkmon.jpg",
+      "sha256": "0bb0ece6ec16465a3f5c1ddbeff2117f8f21a2316d20ce5e4a8dadf1e59501b4",
+      "usage": "Character reference artwork for a local fan experience; character rights belong to their respective owners. Not locally generated artwork."
+    },
+    {
+      "id": "digimon:armadillomon",
+      "path": "web/assets/discovery/digimon/armadillomon.png",
+      "source": "https://digimon.shadowsmith.com/img/armadillomon.jpg",
+      "sha256": "024430e1b89328a3178ddb152cddcc600eb7b9dcee29d48e9df8fc41106e6423",
+      "usage": "Character reference artwork for a local fan experience; character rights belong to their respective owners. Not locally generated artwork."
+    }
+  ]
+}

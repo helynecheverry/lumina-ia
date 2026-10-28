@@ -1,0 +1,534 @@
+{
+  "updated": "2026-10-26",
+  "description": "44 synthetic concept illustrations. Not outputs of the local generation models. No private user reference photos were used.",
+  "assets": [
+    {
+      "path": "characters/fox.png",
+      "group": "character",
+      "key": "fox",
+      "kind": "concept_illustration",
+      "sha256": "22410d2f4301c88c4a11dda77e1cac142b8c5d03bdea462c1c64e4f0bd8fab79",
+      "bytes": 2255083,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "path": "characters/natural.png",
+      "group": "character",
+      "key": "natural",
+      "kind": "concept_illustration",
+      "sha256": "bddf01c9c82335c74a722f8b0741c839400f4610f8d5dda112f02e1c664ed836",
+      "bytes": 2212526,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "path": "characters/bold.png",
+      "group": "character",
+      "key": "bold",
+      "kind": "concept_illustration",
+      "sha256": "bec0da0a5cd0f96a9717f70aab603ed116cff58dafdfee8dd71d4a2ddc35d5ff",
+      "bytes": 2502933,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "path": "characters/extreme.png",
+      "group": "character",
+      "key": "extreme",
+      "kind": "concept_illustration",
+      "sha256": "b23811311360f2b7de56c2012f44e3dd6f4861f468f33d06b1a4ff6bb8abd7ad",
+      "bytes": 2857272,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "path": "characters/elf.png",
+      "group": "character",
+      "key": "elf",
+      "kind": "concept_illustration",
+      "sha256": "fd053f1229d6b7b62f4e7753674ea76ab3ee568e25bae5b6e6543d2ae964e27b",
+      "bytes": 2186568,
+      "size": [
+        1374,
+        1145
+      ]
+    },
+    {
+      "path": "characters/cyborg.png",
+      "group": "character",
+      "key": "cyborg",
+      "kind": "concept_illustration",
+      "sha256": "dfcd2709c433aef33e5614bbd6f77f8da04b4bf11f494367ab9b8dbbe677aca9",
+      "bytes": 2238345,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "path": "characters/vampire.png",
+      "group": "character",
+      "key": "vampire",
+      "kind": "concept_illustration",
+      "sha256": "59765ec1fe35143707897823cc01c74ddc9c4cf423d713c4e9a1492414833de3",
+      "bytes": 2111020,
+      "size": [
+        1312,
+        1199
+      ]
+    },
+    {
+      "path": "characters/fairy.png",
+      "group": "character",
+      "key": "fairy",
+      "kind": "concept_illustration",
+      "sha256": "1a0c45347dcf696de548cc52a23dcc6cb73c20a279d15700da9a1e65d88e2ede",
+      "bytes": 2552720,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "path": "characters/cat.png",
+      "group": "character",
+      "key": "cat",
+      "kind": "concept_illustration",
+      "sha256": "6288c7b847de927011583668ed130984a1a9f5776a362c6976c15b49595da395",
+      "bytes": 2420342,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "path": "characters/dragon.png",
+      "group": "character",
+      "key": "dragon",
+      "kind": "concept_illustration",
+      "sha256": "905603feb1f27aac2f8bb54888c61dde41758b61155f374784b3aa7d3fb91b0d",
+      "bytes": 2361011,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "path": "characters/bird.png",
+      "group": "character",
+      "key": "bird",
+      "kind": "concept_illustration",
+      "sha256": "2af7fd4b47ec2f4b39ec668942de0c92700ffd93e341fa0666dbb18e3e6963cf",
+      "bytes": 2396898,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "path": "characters/alien.png",
+      "group": "character",
+      "key": "alien",
+      "kind": "concept_illustration",
+      "sha256": "6857f808209f40b0831422f06417ef8ef9f46f062403befe468dffd92f74b521",
+      "bytes": 2400010,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "path": "portraits/editorial.png",
+      "group": "style",
+      "key": "editorial",
+      "kind": "concept_illustration",
+      "sha256": "c2b0506b26238b50a9c73accb3d2d6980dc4dd653dd80e568b0e1d24cf66a697",
+      "bytes": 2058253,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "path": "portraits/professional.png",
+      "group": "style",
+      "key": "professional",
+      "kind": "concept_illustration",
+      "sha256": "63c43019f8db82bdaa97d5657cc7566cbcc3f259365329eb79f6ee90c2a465aa",
+      "bytes": 2533496,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "path": "portraits/beauty.png",
+      "group": "style",
+      "key": "beauty",
+      "kind": "concept_illustration",
+      "sha256": "47a4c4fa56d8c59a299ee7677db0b84c8bff4ef94ef35550876843f4bc0cb45c",
+      "bytes": 2385876,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "path": "portraits/vintage.png",
+      "group": "style",
+      "key": "vintage",
+      "kind": "concept_illustration",
+      "sha256": "867f1cefa82ee6809ab76db81bf805fbf2c0f66dd11679e53eba75060ce2e58d",
+      "bytes": 2703612,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "path": "portraits/bw.png",
+      "group": "style",
+      "key": "bw",
+      "kind": "concept_illustration",
+      "sha256": "b717cd23b1340abd3207d7c10cfd1816789a60207610906c4ca2e169c6b8894b",
+      "bytes": 1993475,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "path": "portraits/golden.png",
+      "group": "style",
+      "key": "golden",
+      "kind": "concept_illustration",
+      "sha256": "66ccedf3c659e4d56f26028870700e4450a71957c1bbdb234e6db84d44534caa",
+      "bytes": 2328282,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "path": "portraits/cinema.png",
+      "group": "style",
+      "key": "cinema",
+      "kind": "concept_illustration",
+      "sha256": "30779cdf2b8dfb7221360eca1b2051b6e411c721581e7115c6e57de9ff662955",
+      "bytes": 2362344,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "path": "portraits/neon.png",
+      "group": "style",
+      "key": "neon",
+      "kind": "concept_illustration",
+      "sha256": "4713689428079c0d2d1ebf7a61b71d7646d7325733fe477c9c28e1f68b0dbadf",
+      "bytes": 2452927,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "path": "portraits/fantasy.png",
+      "group": "style",
+      "key": "fantasy",
+      "kind": "concept_illustration",
+      "sha256": "a81aa6a62bf88583d95ca2044f61f1dd65081f12459dc7122271bd213006fd43",
+      "bytes": 2677008,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "path": "portraits/astronaut.png",
+      "group": "style",
+      "key": "astronaut",
+      "kind": "concept_illustration",
+      "sha256": "d347c9dc99450808f201ce87a688214db734afffedbfd253a875f0f99b4cc18e",
+      "bytes": 2696737,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "path": "portraits/pirate.png",
+      "group": "style",
+      "key": "pirate",
+      "kind": "concept_illustration",
+      "sha256": "6e45ec8ae282672652ac31a76bb6b8d98e97dbe21898eeea45e4d12edfdc04dc",
+      "bytes": 3018043,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "path": "portraits/superhero.png",
+      "group": "style",
+      "key": "superhero",
+      "kind": "concept_illustration",
+      "sha256": "a927214301f10bb181129bcc0da72a8abe957bce9781ff74b496c3f3d3fa94e1",
+      "bytes": 2701736,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "path": "portraits/wizard.png",
+      "group": "style",
+      "key": "wizard",
+      "kind": "concept_illustration",
+      "sha256": "9738f4bc86c4ea34958eb3a90668a5b4d3379434deb7d1a440d9e41b73c1a1a3",
+      "bytes": 2517325,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "path": "portraits/western.png",
+      "group": "style",
+      "key": "western",
+      "kind": "concept_illustration",
+      "sha256": "d41ede329df3f2568718bc065535c2aa215bddc2d24d225afc25c65dc7406457",
+      "bytes": 2365500,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "path": "portraits/royal.png",
+      "group": "style",
+      "key": "royal",
+      "kind": "concept_illustration",
+      "sha256": "75549f093b9d06a186e7fae08bd57aa92e1e6c785ae0c8f664154f030ff5ca2e",
+      "bytes": 3033934,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "path": "portraits/noir.png",
+      "group": "style",
+      "key": "noir",
+      "kind": "concept_illustration",
+      "sha256": "5dec63e6cc412ebc5c235bcacad96cc6ecbb5ca476bd942af25cf8457483f97c",
+      "bytes": 2164332,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "path": "portraits/illustration.png",
+      "group": "style",
+      "key": "illustration",
+      "kind": "concept_illustration",
+      "sha256": "e3ba72f899b3ec185ac970b61470cf6938809adb61dbbc3cfdeda81f83993645",
+      "bytes": 3174779,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "path": "portraits/anime.png",
+      "group": "style",
+      "key": "anime",
+      "kind": "concept_illustration",
+      "sha256": "aeb4d218432ca15a0690f8952b01079c22168b485fcc5265e00117c0794400bb",
+      "bytes": 2450610,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "path": "portraits/comic.png",
+      "group": "style",
+      "key": "comic",
+      "kind": "concept_illustration",
+      "sha256": "0c0163ceb976596279059ec9ac1770d86f93e96844967aed4d81375b71fbfef0",
+      "bytes": 3458215,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "path": "portraits/watercolor.png",
+      "group": "style",
+      "key": "watercolor",
+      "kind": "concept_illustration",
+      "sha256": "10feb9c59ec73b8f952091e75b4081da462789e04396ea4f383db5beea3a1290",
+      "bytes": 3120020,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "path": "portraits/oil.png",
+      "group": "style",
+      "key": "oil",
+      "kind": "concept_illustration",
+      "sha256": "ffa2db91cfc339cdcb1437fc9a7a13937cfab34c98729be81775c5f0a844a62a",
+      "bytes": 3527418,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "path": "portraits/three_d.png",
+      "group": "style",
+      "key": "three_d",
+      "kind": "concept_illustration",
+      "sha256": "05a81df3128fd5b06cc80e7180f56ce445d1b180751602e067be44287d10460e",
+      "bytes": 2211855,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "path": "portraits/clay.png",
+      "group": "style",
+      "key": "clay",
+      "kind": "concept_illustration",
+      "sha256": "013c3b470eef32bde464aaa473b987b272f188ae0fb5a57e418fef631e4d061b",
+      "bytes": 2120334,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "path": "portraits/sketch.png",
+      "group": "style",
+      "key": "sketch",
+      "kind": "concept_illustration",
+      "sha256": "b5611dde700a665446e4844db9d97aa51ef759a2d9c0fd22aef408c15e66edc4",
+      "bytes": 3678396,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "path": "portraits/rockstar.png",
+      "group": "style",
+      "key": "rockstar",
+      "kind": "concept_illustration",
+      "sha256": "62c365d732f6a3a747b275f642626b71700af293ad7fa926a34f14fd227931eb",
+      "bytes": 2575506,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "path": "portraits/disco.png",
+      "group": "style",
+      "key": "disco",
+      "kind": "concept_illustration",
+      "sha256": "8e66bb6e0929266d7923ec1e980e58fa970aef4080b5bc93a4439c247ace4f8f",
+      "bytes": 2687180,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "path": "portraits/candy.png",
+      "group": "style",
+      "key": "candy",
+      "kind": "concept_illustration",
+      "sha256": "621e70a6635dc6657be7cbd40227c2cba856682e2ec52c980bdaae399534fe1e",
+      "bytes": 2633975,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "path": "portraits/underwater.png",
+      "group": "style",
+      "key": "underwater",
+      "kind": "concept_illustration",
+      "sha256": "0b1671392cc228770b19166b4785f5f73965d5438315a62bd1566dc0da8e8934",
+      "bytes": 2807185,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "path": "portraits/steampunk.png",
+      "group": "style",
+      "key": "steampunk",
+      "kind": "concept_illustration",
+      "sha256": "156a1e2e759212dafd947c033843122b65214d7d7dc23904f0aa9c01ece08e80",
+      "bytes": 2686472,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "path": "portraits/chef.png",
+      "group": "style",
+      "key": "chef",
+      "kind": "concept_illustration",
+      "sha256": "77340fa308eb2b8494da75c44c6d41a35325752285d7ed87c64af062b08f98b5",
+      "bytes": 2089824,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "path": "portraits/snow.png",
+      "group": "style",
+      "key": "snow",
+      "kind": "concept_illustration",
+      "sha256": "906a1e3ff5bee8517a7079e78d9f3f384fb4ffbc9e88e56c8c928708ba810fbf",
+      "bytes": 2530580,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "path": "portraits/popart.png",
+      "group": "style",
+      "key": "popart",
+      "kind": "concept_illustration",
+      "sha256": "8efffd8cff7124a0c2b29f70ec4fb4cd06145f8e5b475a00dfc6b12258ffd163",
+      "bytes": 3240331,
+      "size": [
+        1254,
+        1254
+      ]
+    }
+  ]
+}
